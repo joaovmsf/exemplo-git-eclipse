@@ -6,9 +6,9 @@ public class MsgGit {
 
 	public static void main(String[] args) {
 		
-		JOptionPane.showMessageDialog(null, "OlÃ¡, Git!");
+		JOptionPane.showMessageDialog(null, "Olá, Git!");
 		System.out.println("Funcionou!");
-
+		System.out.println("Outra alteração");
 	}
 
 }
